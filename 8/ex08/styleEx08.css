@@ -1,0 +1,14 @@
+.toggle-button:selected {
+    -fx-background-color:gold;
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+}
+
+.combo-box {
+	-fx-font-size: 14pt;
+}
+
+.text-field {
+	-fx-font-size: 18pt;
+	-fx-font-weight: bold;
+}
